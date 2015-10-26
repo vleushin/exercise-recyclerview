@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecyclerViewExercise</string>
+    <string name="settings">Settings</string>
+    <string name="add_1_message">Add 1 message</string>
+    <string name="add_20_messages">Add 20 messages</string>
+    <string name="clear">Clear</string>
+    <string name="restart">Restart</string>
+    <string name="instructions">Instructions</string>
+    <string name="message">Message</string>
+    <string name="write">Write</string>
+    <string name="instruction1">1. First messages must start at top</string>
+    <string name="instruction2">2. On first open show last messages</string>
+    <string name="instruction3">3. On adding new message — smooth scroll to it</string>
+    <string name="instruction4">4. On opening keyboard, last message on screen must stay at the same position</string>
+    <string name="instruction5">5. On closing keyboard, last message on screen must stay at the same position</string>
+    <string name="instruction6">P.S. Exercise has everything except 1. All requirements must be met</string>
+</resources>
